@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#050A14</color>
+    <color name="bg_panel">#0B1628</color>
+    <color name="cyan_glow">#00E5FF</color>
+    <color name="cyan_dim">#0D4F6B</color>
+    <color name="amber_warn">#FFB300</color>
+    <color name="text_primary">#E6F7FF</color>
+    <color name="text_muted">#7FA8C9</color>
+</resources>

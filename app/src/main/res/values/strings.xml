@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">J.A.R.V.I.S.</string>
+    <string name="accessibility_service_label">JARVIS System Control</string>
+    <string name="accessibility_description">Allows JARVIS to lock screen, take screenshots, and perform navigation gestures.</string>
+</resources>
